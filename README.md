@@ -9,3 +9,5 @@ To accommodate the needs of different users, we have divided the mural dataset i
 The base version of the dataset consists of 774 cleaned, 720×720 original mural images.
 
 The expert version of the dataset consists of 6,800 512×512 mural images and 6,800 corresponding expert line drawings.
+
+If you have any questions, please contact jsguan@xmut.edu.cn
