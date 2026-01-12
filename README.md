@@ -1,5 +1,3 @@
-# Data-for-PGM
-
 This repository contains a large mural dataset. If you need to use our data, please cite our paper; for specific data details, please refer to the relevant paper.
 
 PGMv1：Progressive generative mural image restoration based on adversarial structure learning.
